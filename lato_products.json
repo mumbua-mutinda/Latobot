@@ -1,0 +1,261 @@
+[
+    {
+        "product_name": "Skimmed Milk Powder (SMP)",
+        "category": "Milk Powder",
+        "description": "Obtained from cow\u2019s milk that has been skimmed, pasteurized and concentrated by vacuum evaporation, then spray dried.",
+        "intended_uses": "Reconstitution of milk, sweetened condensed milk, fermented milk products, yoghurt, ice cream mixes, bakery and confectionery products. Not for infant formula below 12 months.",
+        "packaging": "25 Kg Multi wall kraft paper bag with LDPE inner liner",
+        "shelf_life": "18 Months",
+        "composition": {
+            "Protein": "34.0 Min",
+            "Moisture": "4.0 Max",
+            "Fat": "1.5 Max",
+            "Total_carbohydrate": "52.5 Min",
+            "Minerals_Ash": "8.0 Max"
+        },
+        "recommend_for": ""
+    },
+    {
+        "product_name": "Flavoured Milk Powder (Strawberry/Chocolate)",
+        "category": "Milk Powder",
+        "description": "Contains cocoa/strawberry, milk and sugar. Manufactured hygienically with vitamins A, D, C, B1, B6 and minerals.",
+        "intended_uses": "Ingredient in beverages and bakery products. Not for infants below 12 months.",
+        "packaging": "15 gm Sachet",
+        "shelf_life": "24 Months",
+        "composition": {
+            "Protein": "24.0 Min",
+            "Moisture": "3.5 Max",
+            "Fat": "28 Min",
+            "Total_carbohydrate": "39.0 Min",
+            "Minerals_Ash": "6.5 Max",
+            "Soya_Lecithin": "0.2 Max"
+        },
+        "recommend_for": ""
+    },
+    {
+        "product_name": "Whole Milk Powder (WMP)",
+        "category": "Milk Powder",
+        "description": "Made by two-step evaporation and spray drying of standardized whole milk.",
+        "intended_uses": "Reconstitution of milk, sweetened condensed milk, fermented milk products, yoghurt, ice cream mixes, bakery and confectionery products. Not for infants below 12 months.",
+        "packaging": "25 Kg Multi wall kraft paper bag with LDPE inner liner",
+        "shelf_life": "12 Months",
+        "composition": {
+            "Protein": "25.0 Min",
+            "Moisture": "3.5 Max",
+            "Fat": "26 Min",
+            "Total_carbohydrate": "39.0 Min",
+            "Minerals_Ash": "6.5 Max"
+        },
+        "recommend_for": ""
+    },
+  {
+    "product_name": "Lato ESL Milk Pouch",
+    "description": "Seven layer custom pack with a shelf life of 90 days. Nutritious and creamy milk.",
+    "intended_uses": "For consumption as liquid milk, making tea, coffee and milk based beverages. Not intended for infant feeding.",
+    "packaging": "200 & 500 ml pouches, 95 micron thick, seven layer, packed in 5 ply corrugated boxes.",
+    "shelf_life": "90 Days when sealed. 4 days once opened, refrigerate between 4° C – 6° C.",
+    "composition": {
+      "Energy": "260.1 kJ / 62.2 kCal",
+      "Fat": "3.7%",
+      "Titratable acidity": "0.13 to 0.15",
+      "Solid Non Fat": "8.50%",
+      "Density": "1.028 to 1.036 g/ml"
+    }
+  },
+  {
+    "product_name": "Lato UHT Milk Slim Pack",
+    "description": "Delicious milk in convenient 125 ml and 250 ml tetra packs, perfect for on-the-go.",
+    "intended_uses": "For consumption as liquid milk, preparation of tea, coffee and milk based beverages. Not intended for infant feeding.",
+    "packaging": "125 ml and 250 ml tetra brick pack, seven layer film with polyethylene, aluminium foil and paper board.",
+    "shelf_life": "6 months unopened. 4 days once opened, refrigerate between 4° C – 6° C.",
+    "composition": {
+      "Energy": "260.1 kJ / 62.2 kCal",
+      "Fat": "3.7%",
+      "Titratable acidity": "0.13 to 0.15",
+      "Solid Non Fat": "8.50%",
+      "Density": "1.028 to 1.036 g/ml"
+    }
+  },
+  {
+    "product_name": "Lato UHT Milk Fino Pack",
+    "description": "Basic long-life milk in multi-layered packs, stored at ambient conditions.",
+    "intended_uses": "For consumption as liquid milk, preparation of tea, coffee and milk based beverages. Not intended for infant feeding.",
+    "packaging": "200 ml and 500 ml pouch, seven layer film with polyethylene, aluminum foil and paper board.",
+    "shelf_life": "180 Days when sealed. 4 days once opened, refrigerate between 4° C – 6° C.",
+    "composition": {
+      "Energy": "260.1 kJ / 62.2 kCal",
+      "Fat": "3.7%",
+      "Titratable acidity": "0.13 to 0.15",
+      "Solid Non Fat": "8.50%",
+      "Density": "1.028 to 1.036 g/ml"
+    }
+  },
+  {
+    "product_name": "Lato Chocolate Flavored UHT Milk",
+    "description": "Cow’s milk with chocolate flavor, low fat, rich in calcium and proteins. Handy on-the-go drink for kids.",
+    "intended_uses": "Direct consumption. Not intended for infant feeding.",
+    "packaging": "125 ml and 250 ml aseptic pack, seven layer film with polyethylene, aluminum foil and paper board.",
+    "shelf_life": "180 Days sealed. 4 days once opened, refrigerate between 4° C – 6° C.",
+    "composition": {
+      "Energy": "94 kCal / 397 kJ",
+      "Fat": "2 gm",
+      "Titratable acidity": "0.13 to 0.15",
+      "Carbohydrates": "16 gm",
+      "Protein": "3 gm"
+    }
+  },
+  {
+    "product_name": "Lato Vanilla Flavored UHT Milk",
+    "description": "Cow’s milk with vanilla flavor, creamy and rich in protein and calcium.",
+    "intended_uses": "Direct consumption. Not intended for infant feeding.",
+    "packaging": "125 ml and 250 ml aseptic pack, seven layer film with polyethylene, aluminum foil and paper board.",
+    "shelf_life": "180 Days sealed. 4 days once opened, refrigerate between 4° C – 6° C.",
+    "composition": {
+      "Energy": "94 kCal / 397 kJ",
+      "Fat": "2 gm",
+      "Carbohydrates": "16 gm",
+      "Protein": "3 gm"
+    }
+  },
+  {
+    "product_name": "Lato Strawberry Flavored UHT Milk",
+    "description": "Cow’s milk with strawberry flavor, creamy and rich in protein and calcium.",
+    "intended_uses": "Direct consumption. Not intended for infant feeding.",
+    "packaging": "125 ml and 250 ml aseptic pack, seven layer film with polyethylene, aluminum foil and paper board.",
+    "shelf_life": "180 Days sealed. 4 days once opened, refrigerate between 4° C – 6° C.",
+    "composition": {
+      "Energy": "94 kCal / 397 kJ",
+      "Fat": "2 gm",
+      "Carbohydrates": "16 gm",
+      "Protein": "3 gm"
+    }
+  },
+  {
+    "product_name": "Lato Custard UHT Milk",
+    "description": "Creamy custard flavored milk, rich in calcium, vitamin D and protein.",
+    "intended_uses": "Direct consumption. Not intended for infant feeding.",
+    "packaging": "125 ml aseptic pack, seven layer film with polyethylene, aluminium foil and paper board.",
+    "shelf_life": "180 Days sealed. 4 days once opened, refrigerate between 4° C – 6° C.",
+    "composition": {
+      "Energy": "76 kCal / 320.5 kJ",
+      "Fat": "2 gm",
+      "Carbohydrates": "11.5 g",
+      "Sugar": "7.5 g",
+      "Saturated Fat": "0.8 g",
+      "Protein": "3 gm",
+      "Fiber": "0",
+      "Sodium": "35 mg",
+      "Calcium": "110 mg"
+    }
+  },
+  {
+    "product_name": "Lato Omega Fortified Pineapple UHT Milk",
+    "description": "Tropical pineapple flavored milk, rich in Omega-3, calcium and protein.",
+    "intended_uses": "Direct consumption. Not intended for infant feeding.",
+    "packaging": "125 ml and 250 ml aseptic pack, seven layer film with polyethylene, aluminum foil and paper board.",
+    "shelf_life": "180 Days sealed. Consume within 3 days once opened. Refrigerate 4° C – 6° C.",
+    "composition": {
+      "Energy": "76 kCal / 320.5 kJ",
+      "Fat": "2 gm",
+      "Saturated Fat": "0.9 gm",
+      "Carbohydrates": "11.5 g",
+      "Sugar": "7.5 g",
+      "Protein": "3 gm",
+      "Calcium": "110 mg",
+      "Sodium": "45 mg",
+      "Omega 3": "35 mg",
+      "Vitamin D3": "0.75 μg",
+      "Vitamin A": "120 μg"
+    }
+  },
+  {
+    "product_name": "Lato Peach & Caramel Yoghurt",
+    "description": "Thick, tasty yoghurt made from real peaches and caramel. Healthy and creamy.",
+    "intended_uses": "Direct consumption.",
+    "packaging": "250g and 450g cups",
+    "shelf_life": "45 days from date of manufacturing",
+    "composition": {
+      "Energy": "112.2 kCal / 473.1 kJ",
+      "Carbohydrates": "7.5 g",
+      "Milk Fat": "3 g",
+      "Saturated Fat": "1.5 g",
+      "Dietary Fiber": "0.15 g",
+      "Sodium": "125 mg",
+      "Calcium": "120 mg"
+    }
+  },
+  {
+    "product_name": "Lato Mixed Berries Yoghurt",
+    "description": "Whole yoghurt mixed with strawberries, blackberries, blueberries, and raspberries.",
+    "intended_uses": "Direct consumption.",
+    "packaging": "250g and 450g cups",
+    "shelf_life": "45 days from date of manufacturing",
+    "composition": {
+      "Energy": "112.2 kCal / 473.1 kJ",
+      "Carbohydrates": "7.5 g",
+      "Milk Fat": "3 g",
+      "Saturated Fat": "1.5 g",
+      "Dietary Fiber": "0.15 g",
+      "Sodium": "125 mg",
+      "Calcium": "120 mg"
+    }
+  },
+  {
+    "product_name": "Lato Yogo Yogo",
+    "description": "Strawberry and Vanilla drinkable yoghurt, convenient squeezer packs.",
+    "intended_uses": "Direct consumption.",
+    "packaging": "60g squeezer packs",
+    "shelf_life": "Check package",
+    "composition": {}
+  },
+  {
+    "product_name": "Lato Instant Porridge Banana Flavour",
+    "description": "Quick and nutritious porridge, easy to prepare with warm water.",
+    "intended_uses": "Breakfast or snack.",
+    "packaging": "30g sachets",
+    "shelf_life": "Check package",
+    "composition": {
+      "Fat": "4.0 g",
+      "Protein": "8 g",
+      "Total Carbohydrates": "75 g",
+      "Crude Fiber": "0.9 g",
+      "Total Sugar": "19 g",
+      "Vitamin A": "50 μg"
+    }
+  },
+  {
+    "product_name": "Lato Butter",
+    "description": "Creamy and hygienic butter, ideal for baking.",
+    "intended_uses": "Cooking and baking.",
+    "packaging": "250g, 500g (5 layer lacquered aluminium foil), 10gm blister pack",
+    "shelf_life": "12 Months from date of manufacturing",
+    "composition": {
+      "Energy": "720 kCal / 2960 kJ",
+      "Milk Fat": "80 gm",
+      "Moisture": "16 gm",
+      "Milk SNF": "2 gm"
+    }
+  },
+  {
+    "product_name": "Lato Ghee",
+    "description": "Clarified butter with nutty and aromatic flavour.",
+    "intended_uses": "Used for cooking. Not for infants below 12 months.",
+    "packaging": "500 g, 1 Kg tins; 18 Kg plastic HDPE bucket; 195 Kg drums, nitrogen flushed and food grade lacquer coated",
+    "shelf_life": "12 months (drum/bucket), 24 months (tins)",
+    "composition": {
+      "Fat": "99.8%",
+      "Moisture": "0.2%"
+    }
+  },
+  {
+    "product_name": "Lato Butter Oil",
+    "description": "High-vitamin nutrient dense oil extracted from milk, less processed than ghee.",
+    "intended_uses": "Bakery, confectionery, ice cream, cooking and fat enriched products. Not for infants below 12 months.",
+    "packaging": "195 kg steel drum, nitrogen flushed, epoxy phenolic lacquer",
+    "shelf_life": "12 Months",
+    "composition": {
+      "Fat": "99.8%",
+      "Moisture": "0.2%"
+    }
+  }
+]
