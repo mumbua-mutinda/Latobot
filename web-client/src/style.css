@@ -1,0 +1,172 @@
+/* ----------------------------------------
+   BASE
+-----------------------------------------*/
+body {
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background: #e8f2ff; /* Lato light blue shade */
+  color: #0f172a;
+  margin: 0;
+  padding: 0;
+}
+
+/* ----------------------------------------
+   MAIN CONTAINER
+-----------------------------------------*/
+.app {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 24px;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 6px 25px rgba(0, 72, 144, 0.15); /* soft blue shadow */
+}
+
+/* ----------------------------------------
+   HEADER
+-----------------------------------------*/
+.header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #004c97; /* Lato blue */
+}
+
+/* ----------------------------------------
+   CHATBOX
+-----------------------------------------*/
+.chatbox {
+  border: 1px solid #d0e2ff;
+  padding: 16px;
+  min-height: 350px;
+  max-height: 500px;
+  overflow-y: auto;
+  border-radius: 14px;
+  background: #f4f8ff; /* very light blue */
+  margin-bottom: 16px;
+}
+
+/* ----------------------------------------
+   MESSAGE WRAPPERS
+-----------------------------------------*/
+.messageRow {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin: 12px 0;
+}
+
+.messageRow.user {
+  justify-content: flex-end;
+}
+
+.messageRow.user .bubble {
+  background: #004c97; /* Lato blue */
+  color: white;
+  border-radius: 16px 16px 4px 16px;
+}
+
+.messageRow.bot .bubble {
+  background: #ffffff;
+  color: #0f172a;
+  border-radius: 16px 16px 16px 4px;
+  border: 1px solid #d9e6ff;
+}
+
+/* Message bubble */
+.bubble {
+  max-width: 70%;
+  padding: 12px 14px;
+  font-size: 0.95rem;
+  line-height: 1.4rem;
+  box-shadow: 0 2px 8px rgba(0, 72, 144, 0.08);
+}
+
+/* Icons */
+.icon {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* ----------------------------------------
+   INPUT ROW
+-----------------------------------------*/
+.inputRow {
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+input[type=text] {
+  flex: 1;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid #b7cff9;
+  outline: none;
+  font-size: 1rem;
+  background: #ffffff;
+}
+
+input[type=text]:focus {
+  border-color: #004c97;
+  box-shadow: 0 0 5px rgba(0, 76, 151, 0.5);
+}
+
+button {
+  background: #004c97;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #003b76;
+}
+
+/* ----------------------------------------
+   PRODUCT CARD (for product responses)
+-----------------------------------------*/
+.productCard {
+  border: 1px solid #d0e2ff;
+  padding: 14px;
+  border-radius: 12px;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  margin: 10px 0;
+  background: white;
+  box-shadow: 0 2px 10px rgba(0, 72, 144, 0.08);
+}
+
+.productCard img {
+  width: 85px;
+  height: 85px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* ----------------------------------------
+   SCROLLBAR
+-----------------------------------------*/
+.chatbox::-webkit-scrollbar {
+  width: 8px;
+}
+
+.chatbox::-webkit-scrollbar-thumb {
+  background-color: #80aee9;
+  border-radius: 4px;
+}
+
+.chatbox::-webkit-scrollbar-track {
+  background: #dfeaff;
+  border-radius: 4px;
+}
