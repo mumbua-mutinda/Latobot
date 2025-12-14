@@ -1,0 +1,237 @@
+/* ----------------------------------------
+   BASE
+-----------------------------------------*/
+body {
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background: #e8f2ff;
+  color: #0f172a;
+  margin: 0;
+  padding: 0;
+}
+
+/* ----------------------------------------
+   MAIN CONTAINER
+-----------------------------------------*/
+.appContainer {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.appCard {
+  width: 100%;
+  max-width: 900px;
+  margin: 24px;
+  padding: 24px;
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 6px 25px rgba(0, 72, 144, 0.15);
+}
+
+/* ----------------------------------------
+   HEADER
+-----------------------------------------*/
+.header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #004c97;
+}
+
+/* ----------------------------------------
+   CHATBOX
+-----------------------------------------*/
+.chatbox {
+  border: 1px solid #d0e2ff;
+  padding: 16px;
+  min-height: 350px;
+  max-height: 500px;
+  overflow-y: auto;
+  border-radius: 14px;
+  background: #f4f8ff;
+  margin-bottom: 16px;
+}
+
+/* ----------------------------------------
+   MESSAGE ROWS
+-----------------------------------------*/
+.messageRow {
+  display: flex;
+  gap: 10px;
+  margin: 12px 0;
+  align-items: flex-start;
+}
+
+/* BOT (LEFT) */
+.messageRow.botRow {
+  justify-content: flex-start;
+  flex-direction: row;
+}
+
+/* USER (RIGHT) */
+.messageRow.userRow {
+  justify-content: flex-end;
+  flex-direction: row-reverse;
+}
+
+/* ----------------------------------------
+   AVATARS
+-----------------------------------------*/
+.avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+/* ----------------------------------------
+   MESSAGE BUBBLES
+-----------------------------------------*/
+.bubble {
+  max-width: 70%;
+  padding: 12px 14px;
+  font-size: 0.95rem;
+  line-height: 1.4rem;
+  word-wrap: break-word;
+  box-shadow: 0 2px 8px rgba(0, 72, 144, 0.08);
+}
+
+/* Bot bubble */
+.messageRow.botRow .bubble {
+  background: #ffffff;
+  color: #0f172a;
+  border-radius: 16px 16px 16px 4px;
+  border: 1px solid #d9e6ff;
+}
+
+/* User bubble */
+.messageRow.userRow .bubble {
+  background: #004c97;
+  color: white;
+  border-radius: 16px 16px 4px 16px;
+}
+
+/* Typing indicator */
+.bubble.typing {
+  font-style: italic;
+  opacity: 0.7;
+}
+
+/* ----------------------------------------
+   PRODUCT CARD (INSIDE BOT BUBBLE)
+-----------------------------------------*/
+.productCard {
+  margin-top: 10px;
+  padding: 14px;
+  border-radius: 12px;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  background: #ffffff;
+  border: 1px solid #d0e2ff;
+  box-shadow: 0 2px 10px rgba(0, 72, 144, 0.08);
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.productCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 72, 144, 0.15);
+}
+
+.productCard img {
+  width: 85px;
+  height: 85px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* ----------------------------------------
+   SUGGESTIONS
+-----------------------------------------*/
+.suggestionBox {
+  margin-bottom: 12px;
+}
+
+.suggestionButtons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.suggestionButtons button {
+  background: #e6f0ff;
+  color: #004c97;
+  border: 1px solid #b7cff9;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.suggestionButtons button:hover {
+  background: #004c97;
+  color: white;
+}
+
+/* ----------------------------------------
+   INPUT ROW
+-----------------------------------------*/
+.inputRow {
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+input[type="text"] {
+  flex: 1;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid #b7cff9;
+  outline: none;
+  font-size: 1rem;
+}
+
+input[type="text"]:focus {
+  border-color: #004c97;
+  box-shadow: 0 0 5px rgba(0, 76, 151, 0.5);
+}
+
+button {
+  background: #004c97;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+button:hover {
+  background: #003b76;
+}
+
+/* ----------------------------------------
+   SCROLLBAR
+-----------------------------------------*/
+.chatbox::-webkit-scrollbar {
+  width: 8px;
+}
+
+.chatbox::-webkit-scrollbar-thumb {
+  background-color: #80aee9;
+  border-radius: 4px;
+}
+
+.chatbox::-webkit-scrollbar-track {
+  background: #dfeaff;
+  border-radius: 4px;
+}

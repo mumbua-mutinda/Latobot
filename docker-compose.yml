@@ -1,0 +1,21 @@
+```yaml
+version: '3.8'
+services:
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    ports:
+      - '6379:6379'
+  lato-api:
+    build: .
+    command: uvicorn fastapi_chatbot:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      - ./:/app
+    ports:
+      - '8000:8000'
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - LATO_PRODUCTS_FILE=/app/lato_products.json
+    depends_on:
+      - redis
+```
