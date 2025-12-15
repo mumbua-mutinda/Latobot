@@ -64,41 +64,9 @@
       "recommended_for": "1+ years",
       "image": "tba_uht_milk_250ml.jpg"
     },
+    
     {
-      "name": "LAT-UHT-Tetra Pack-500ml",
-      "sku": "UHT 500ML",
-      "friendly_description": "Big 500ml pack, perfect for home use.",
-      "technical_description": "Cow’s milk processed with ultra-high temperature sterilization, packed in aseptic 500ml tetra pack.",
-      "packaging": "500ml tetra pack, 7-layer film.",
-      "shelf_life": "6 months unopened, 4 days once opened. Refrigerate at 4–6°C.",
-      "nutritional_info": {
-        "energy": "248 kCal",
-        "fat": "14.8 g",
-        "protein": "12 g",
-        "carbohydrates": "20 g"
-      },
-      "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
-    },
-    {
-      "name": "LAT-UHT-FINO-200ml",
-      "sku": "FINO 200ML",
-      "friendly_description": "Small Fino pack, perfect for quick consumption and travel.",
-      "technical_description": "Fino UHT milk packed in 200ml aseptic packs for easy use.",
-      "packaging": "200ml aseptic pack.",
-      "shelf_life": "6 months unopened, 4 days once opened. Refrigerate at 4–6°C.",
-      "nutritional_info": {
-        "energy": "65 kCal",
-        "fat": "3.8 g",
-        "protein": "3.2 g",
-        "carbohydrates": "5 g"
-      },
-      "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
-    },
-    {
-      "name": "LAT-UHT-FINO-500ml",
-      "sku": "FINO 500ML",
+      "name": "Lato Fino 500ml",
       "friendly_description": "Larger Fino pack, great for home or office consumption.",
       "technical_description": "Fino UHT milk packed in 500ml aseptic packs for easy use.",
       "packaging": "500ml aseptic pack.",
@@ -110,7 +78,7 @@
         "carbohydrates": "12 g"
       },
       "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
+      "image": "lato_uht_fino_500ml.jpg"
     }
   ]
 },
@@ -119,7 +87,6 @@
   "products": [
     {
       "name": "LAT-UHT-Tetra Pine-Coconut-125ml",
-      "sku": "FM 125ML - Pine Coconut",
       "friendly_description": "Delicious Pineapple & Coconut flavored UHT milk, perfect for a refreshing drink anytime.",
       "technical_description": "Ultra-pasteurized flavored milk in a 125ml tetra pack for long shelf life.",
       "packaging": "125ml tetra pack, 7-layer film.",
@@ -131,11 +98,10 @@
         "carbohydrates": "16 g"
       },
       "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
+      "image": "LAT-UHT-Tetra Pine-Coconut-250ml.jpg"
     },
     {
       "name": "LAT-UHT-Tetra Pine-Coconut-250ml",
-      "sku": "FM 250ML - Pine Coconut",
       "friendly_description": "Larger 250ml pack of Pineapple & Coconut flavored UHT milk, perfect for kids and adults alike.",
       "technical_description": "Ultra-pasteurized flavored milk in a 250ml tetra pack for long shelf life.",
       "packaging": "250ml tetra pack, 7-layer film.",
@@ -147,11 +113,10 @@
         "carbohydrates": "32 g"
       },
       "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
+      "image":"LAT-UHT-Tetra Pine-Coconut-250ml.jpg"
     },
     {
-      "name": "LAT-UHT-TETRA CUSTARD-125ML",
-      "sku": "FM 125ML - Custard",
+      "name": "LATO-UHT-TETRA CUSTARD-125ML",
       "friendly_description": "Classic custard flavored milk in a convenient 125ml pack for a creamy treat.",
       "technical_description": "Ultra-pasteurized custard flavored milk, 125ml tetra pack.",
       "packaging": "125ml tetra pack, 7-layer film.",
@@ -163,11 +128,10 @@
         "carbohydrates": "17 g"
       },
       "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
+      "image": "LAT-UHT-Tetra Pine-Coconut-250ml.jpg"
     },
     {
       "name": "LAT-UHT-Tetra Chocolate-125ml",
-      "sku": "FM 125ML - Chocolate",
       "friendly_description": "Rich and creamy chocolate flavored milk, perfect for kids or chocolate lovers.",
       "technical_description": "Ultra-pasteurized chocolate flavored milk, 125ml tetra pack.",
       "packaging": "125ml tetra pack, 7-layer film.",
@@ -179,11 +143,10 @@
         "carbohydrates": "17 g"
       },
       "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
+      "image": "chocolate_flavored_milk_125ml.jpg"
     },
     {
       "name": "LAT-UHT-CHOCOLATE-LP-250mlX24",
-      "sku": "FM 250ML - Chocolate",
       "friendly_description": "Large 250ml chocolate milk pack, ideal for school lunchboxes or family use.",
       "technical_description": "Ultra-pasteurized chocolate flavored milk, 250ml tetra pack.",
       "packaging": "250ml tetra pack, 7-layer film.",
@@ -195,11 +158,10 @@
         "carbohydrates": "34 g"
       },
       "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
+      "image": "chocolate_flavored_milk_250ml.jpg"
     },
     {
       "name": "LAT-UHT-Tetra Strawberry-125ml",
-      "sku": "FM 125ML - Strawberry",
       "friendly_description": "Sweet and fruity strawberry flavored milk in a handy 125ml pack.",
       "technical_description": "Ultra-pasteurized strawberry flavored milk, 125ml tetra pack.",
       "packaging": "125ml tetra pack, 7-layer film.",
@@ -211,11 +173,10 @@
         "carbohydrates": "16 g"
       },
       "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
+      "image": "strawberry_flavored_milk_125ml.jpg"
     },
     {
       "name": "LAT-UHT-STRAWBERRY-LP-250mlX24",
-      "sku": "FM 250ML - Strawberry",
       "friendly_description": "Family-sized 250ml strawberry milk, perfect for kids’ snacks or school lunch.",
       "technical_description": "Ultra-pasteurized strawberry flavored milk, 250ml tetra pack.",
       "packaging": "250ml tetra pack, 7-layer film.",
@@ -227,11 +188,10 @@
         "carbohydrates": "32 g"
       },
       "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
+      "image": "strawberry_flavored_milk_250ml.jpg"
     },
     {
       "name": "LAT-UHT-Tetra Vanilla-125ml",
-      "sku": "FM 125ML - Vanilla",
       "friendly_description": "Smooth and creamy vanilla flavored UHT milk, great for a tasty drink anytime.",
       "technical_description": "Ultra-pasteurized vanilla flavored milk, 125ml tetra pack.",
       "packaging": "125ml tetra pack, 7-layer film.",
@@ -243,11 +203,10 @@
         "carbohydrates": "16 g"
       },
       "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
+      "image": "vanilla_flavored_milk_125ml.jpg"
     },
     {
       "name": "LAT-UHT-VANILLA-LP-250mlX24",
-      "sku": "FM 250ML - Vanilla",
       "friendly_description": "Large 250ml vanilla milk pack, perfect for home or office consumption.",
       "technical_description": "Ultra-pasteurized vanilla flavored milk, 250ml tetra pack.",
       "packaging": "250ml tetra pack, 7-layer film.",
@@ -259,7 +218,7 @@
         "carbohydrates": "32 g"
       },
       "recommended_for": "1+ years",
-      "image_url": "placeholder_url"
+      "image": "LAT-UHT-VANILLA-LP-250mlX24.jpg"
     }
   ]
 },
@@ -267,24 +226,7 @@
   "category": "Butter",
   "products": [
     {
-      "name": "LAT-Butter-Salted-10gm-RT-D",
-      "sku": "Butter Salted 10g",
-      "friendly_description": "Convenient 10g salted butter, perfect for individual use or breakfast spreads.",
-      "technical_description": "High-quality salted butter made from fresh cream, ideal for direct consumption or cooking.",
-      "packaging": "10g portion pack, RT-D format.",
-      "shelf_life": "6 months. Keep refrigerated.",
-      "nutritional_info": {
-        "energy": "72 kCal",
-        "fat": "8 g",
-        "protein": "0.1 g",
-        "carbohydrates": "0 g"
-      },
-      "recommended_for": "All ages (except infants under 12 months)",
-      "image_url": "placeholder_url"
-    },
-    {
       "name": "LAT-Butter-Salted-250GmX20-RT-D",
-      "sku": "Butter Salted 250G",
       "friendly_description": "Family-sized 250g salted butter, perfect for cooking, baking, or daily use.",
       "technical_description": "Premium salted butter from fresh cream, packed for easy storage.",
       "packaging": "250g pack, RT-D format.",
@@ -296,11 +238,10 @@
         "carbohydrates": "0 g"
       },
       "recommended_for": "All ages (except infants under 12 months)",
-      "image_url": "placeholder_url"
+      "image": "Lato Salted Butter 250G.jpeg"
     },
     {
       "name": "LAT-Butter-Salted-500GmX10-RT-D",
-      "sku": "Butter Salted 500G",
       "friendly_description": "Large 500g salted butter block, ideal for home cooking and baking.",
       "technical_description": "Premium quality salted butter made from fresh cream.",
       "packaging": "500g block, RT-D format.",
@@ -312,27 +253,11 @@
         "carbohydrates": "0 g"
       },
       "recommended_for": "All ages (except infants under 12 months)",
-      "image_url": "placeholder_url"
+      "image": "Lato Salted Butter 500g.png"
     },
-    {
-      "name": "LAT-Butter-unSalted-10gm-RT-D",
-      "sku": "Butter Unsalted 10g",
-      "friendly_description": "Convenient 10g unsalted butter, ideal for baking or cooking where control of salt is needed.",
-      "technical_description": "High-quality unsalted butter made from fresh cream.",
-      "packaging": "10g portion pack, RT-D format.",
-      "shelf_life": "6 months. Keep refrigerated.",
-      "nutritional_info": {
-        "energy": "72 kCal",
-        "fat": "8 g",
-        "protein": "0.1 g",
-        "carbohydrates": "0 g"
-      },
-      "recommended_for": "All ages (except infants under 12 months)",
-      "image_url": "placeholder_url"
-    },
+
     {
       "name": "LAT-Butter-Unsalted-250GmX20-RT-D",
-      "sku": "Butter Unsalted 250G",
       "friendly_description": "Family-sized 250g unsalted butter, perfect for baking and cooking.",
       "technical_description": "Premium unsalted butter made from fresh cream for versatile use.",
       "packaging": "250g pack, RT-D format.",
@@ -344,11 +269,10 @@
         "carbohydrates": "0 g"
       },
       "recommended_for": "All ages (except infants under 12 months)",
-      "image_url": "placeholder_url"
+      "image": "Lato Unsalted Butter 250G.jpeg"
     },
     {
       "name": "LAT-Butter-Unsalted-500GmX10-RT-D",
-      "sku": "Butter Unsalted 500G",
       "friendly_description": "Large 500g unsalted butter block, perfect for baking and culinary use.",
       "technical_description": "High-quality unsalted butter made from fresh cream.",
       "packaging": "500g block, RT-D format.",
@@ -360,189 +284,108 @@
         "carbohydrates": "0 g"
       },
       "recommended_for": "All ages (except infants under 12 months)",
-      "image_url": "placeholder_url"
-    },
-    {
-      "name": "LAT-Butter-Unsalted-5kg-RT-D",
-      "sku": "Butter Unsalted 5Kgs",
-      "friendly_description": "Bulk 5kg unsalted butter, ideal for restaurants, bakeries, and large-scale cooking.",
-      "technical_description": "Premium unsalted butter made from fresh cream, supplied in bulk.",
-      "packaging": "5kg block, RT-D format.",
-      "shelf_life": "6 months. Keep refrigerated.",
-      "nutritional_info": {
-        "energy": "14400 kCal",
-        "fat": "1600 g",
-        "protein": "20 g",
-        "carbohydrates": "0 g"
-      },
-      "recommended_for": "All ages (except infants under 12 months)",
-      "image_url": "placeholder_url"
+      "image": "Lato Butter_Unsalted 500g.jpeg"
     }
+    
   ]
 },
   {
   "category": "Yoghurt",
   "products": [
-    {
-      "sku": "LAT-YOG-POUCH-STRAWBERRY-200GM-RT-D",
-      "name": "YOG. POU. 200g - Strawberry",
+     {
+      "name": "strawberry_yoghurt_100g",
       "description": "Delicious strawberry-flavored yoghurt, creamy and rich.",
-      "packaging": "200g pouch",
+      "packaging": "100g pouch",
       "shelf_life": "7 days refrigerated",
       "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image": "strawberry_yoghurt_100g.png"
+    }, {
+      "name": "strawberry_yoghurt_150g",
+      "description": "Delicious strawberry-flavored yoghurt, creamy and rich.",
+      "packaging": "150g pouch",
+      "shelf_life": "7 days refrigerated",
+      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
+      "age_recommendation": "1+ years",
+      "image": "strawberry_yoghurt_150g.png"
     },
     {
-      "sku": "LAT-YOG-POUCH-STRAWBERRY-400GM-RT-D",
-      "name": "YOG. POU. 400g - Strawberry",
+      "name": "strawberry_yoghurt_250g",
+      "description": "Delicious strawberry-flavored yoghurt, creamy and rich.",
+      "packaging": "250g pouch",
+      "shelf_life": "7 days refrigerated",
+      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
+      "age_recommendation": "1+ years",
+      "image": "strawberry_yoghurt_250g.png"
+    },
+    {
+     
+      "name": "strawberry_yoghurt_400g",
       "description": "Delicious strawberry-flavored yoghurt, creamy and rich.",
       "packaging": "400g pouch",
       "shelf_life": "7 days refrigerated",
       "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image": "strawberry_yoghurt_400g.png"
+    }, {
+      "name": "strawberry_yoghurt_500g",
+      "description": "Delicious strawberry-flavored yoghurt, creamy and rich.",
+      "packaging": "500g pouch",
+      "shelf_life": "7 days refrigerated",
+      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
+      "age_recommendation": "1+ years",
+      "image": "strawberry_yoghurt_500g.png"
     },
     {
-      "sku": "LAT-YOG-POUCH-VANILLA-200GM-RT-D",
-      "name": "YOG. POU. 200g - Vanilla",
+      "name": "vanilla_yoghurt_100g",
       "description": "Creamy vanilla-flavored yoghurt, smooth and tasty.",
-      "packaging": "200g pouch",
+      "packaging": "100g pouch",
       "shelf_life": "7 days refrigerated",
       "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image": "vanilla_yoghurt_100g.png"
     },
     {
-      "sku": "LAT-YOG-POUCH-VANILLA-400GM-RT-D",
-      "name": "YOG. POU. 400g - Vanilla",
+      "name": "vanilla_yoghurt_150g",
       "description": "Creamy vanilla-flavored yoghurt, smooth and tasty.",
-      "packaging": "400g pouch",
+      "packaging": "150g pouch",
       "shelf_life": "7 days refrigerated",
       "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image": "vanilla_yoghurt_150g.png"
+    },
+       {
+
+      "name": "vanilla_yoghurt_250g",
+      "description": "Creamy vanilla-flavored yoghurt, smooth and tasty.",
+      "packaging": "250g pouch",
+      "shelf_life": "7 days refrigerated",
+      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
+      "age_recommendation": "1+ years",
+      "image": "vanilla_yoghurt_250g.png"
     },
     {
-      "sku": "LAT-YOG-CUP-STRAWBERRY-100gm-RT-D",
-      "name": "YOG. CUP 100g - Strawberry",
+
+      "name": "vanilla_yoghurt_400g",
       "description": "Rich strawberry yoghurt in a convenient cup.",
-      "packaging": "100g cup",
+      "packaging": "400g cup",
       "shelf_life": "7 days refrigerated",
       "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image_url": "vanilla_yoghurt_400g.png"
     },
-    {
-      "sku": "LAT-YOG-CUP-STRAWBERRY-250GM-RT-D",
-      "name": "YOG. CUP 250g - Strawberry",
-      "description": "Rich strawberry yoghurt in a convenient cup.",
-      "packaging": "250g cup",
+       {
+
+      "name": "vanilla_yoghurt_500g",
+      "description": "Creamy vanilla-flavored yoghurt, smooth and tasty.",
+      "packaging": "500g pouch",
       "shelf_life": "7 days refrigerated",
       "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image": "vanilla_yoghurt_500g.png"
     },
-    {
-      "sku": "LAT-YOG-CUP-STRAWBERRY-500GM-RT-D",
-      "name": "YOG. CUP 500g - Strawberry",
-      "description": "Rich strawberry yoghurt in a convenient cup.",
-      "packaging": "500g cup",
-      "shelf_life": "7 days refrigerated",
-      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
-      "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-YOG-CUP-VANILLA-100gm-RT-D",
-      "name": "YOG. CUP 100g - Vanilla",
-      "description": "Creamy vanilla yoghurt in a convenient cup.",
-      "packaging": "100g cup",
-      "shelf_life": "7 days refrigerated",
-      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
-      "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-YOG-CUP-VANILLA-250GM-RT-D",
-      "name": "YOG. CUP 250g - Vanilla",
-      "description": "Creamy vanilla yoghurt in a convenient cup.",
-      "packaging": "250g cup",
-      "shelf_life": "7 days refrigerated",
-      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
-      "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-YOG-CUP-VANILLA-500GM-RT-D",
-      "name": "YOG. CUP 500g - Vanilla",
-      "description": "Creamy vanilla yoghurt in a convenient cup.",
-      "packaging": "500g cup",
-      "shelf_life": "7 days refrigerated",
-      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
-      "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-YOG-CUP-MixedBerry-100GM-RT-D",
-      "name": "YOG. CUP 100g - Mixedberry",
-      "description": "Mixed berry yoghurt, delicious and fruity.",
-      "packaging": "100g cup",
-      "shelf_life": "7 days refrigerated",
-      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
-      "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-YOG-CUP-MixedBerry-250GM-RT-D",
-      "name": "YOG. CUP 250g - Mixedberry",
-      "description": "Mixed berry yoghurt, delicious and fruity.",
-      "packaging": "250g cup",
-      "shelf_life": "7 days refrigerated",
-      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
-      "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-YOG-CUP-MixedBerry-450GM-RT-D",
-      "name": "YOG. CUP 450g - Mixedberry",
-      "description": "Mixed berry yoghurt, delicious and fruity.",
-      "packaging": "450g cup",
-      "shelf_life": "7 days refrigerated",
-      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
-      "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-YOG-CUP-Peach-Caramel-100GM",
-      "name": "YOG. CUP 100g - Peach Caramel",
-      "description": "Peach and caramel flavored yoghurt, creamy and rich.",
-      "packaging": "100g cup",
-      "shelf_life": "7 days refrigerated",
-      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
-      "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-YOG-CUP-Peach-Caramel-250GM",
-      "name": "YOG. CUP 250g - Peach Caramel",
-      "description": "Peach and caramel flavored yoghurt, creamy and rich.",
-      "packaging": "250g cup",
-      "shelf_life": "7 days refrigerated",
-      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
-      "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-YOG-CUP-Peach-Caramel-450GM",
-      "name": "YOG. CUP 450g - Peach Caramel",
-      "description": "Peach and caramel flavored yoghurt, creamy and rich.",
-      "packaging": "450g cup",
-      "shelf_life": "7 days refrigerated",
-      "nutritional_info": "Protein: Xg, Fat: Xg, Carbs: Xg, Energy: X kCal",
-      "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
-    },
+       
+   
     {
       "sku": "LAT-YOG-CUP-PLAIN-500GM-RT-D",
       "name": "YOG. CUP 500g - Plain",
@@ -559,64 +402,60 @@
   "category": "Omega UHT",
   "products": [
     {
-      "sku": "LAT-UHT-BANANA-FLA-OM-125ML-RT-D",
-      "name": "Omega 125ML - Banana",
+      "name": "omega_banana_uht_125ml",
       "description": "Banana-flavored Omega UHT milk, enriched with nutrients.",
       "packaging": "125ml tetra pack",
       "shelf_life": "180 days, 4 days once opened",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbs: Xg",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image": "omega_banana_uht_125ml.jpg"
     },
     {
-      "sku": "LAT-UHT-BANANA-FLA-OM-250ML-RT-D",
-      "name": "Omega 250ML - Banana",
+      "name": "omega_banana_uht_250ml",
       "description": "Banana-flavored Omega UHT milk, enriched with nutrients.",
       "packaging": "250ml tetra pack",
       "shelf_life": "180 days, 4 days once opened",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbs: Xg",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image": "omega_banana_uht_250ml.jpg"
     },
     {
-      "sku": "LAT-UHT-ORANGE-FLA-OM-125ML-RT-D",
-      "name": "Omega 125ML - Orange",
+      "name": "omega orange_uht_125ml",
       "description": "Orange-flavored Omega UHT milk, delicious and nutritious.",
       "packaging": "125ml tetra pack",
       "shelf_life": "180 days, 4 days once opened",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbs: Xg",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image": "omega_orange_uht_125ml.jpg"
     },
     {
-      "sku": "LAT-UHT-ORANGE-FLA-OM-250ML-RT-D",
-      "name": "Omega 250ML - Orange",
+      "name": "omega_orange_uht_250ml",
       "description": "Orange-flavored Omega UHT milk, delicious and nutritious.",
       "packaging": "250ml tetra pack",
       "shelf_life": "180 days, 4 days once opened",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbs: Xg",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image": "omega_orange_uht_125ml.jpg"
     },
     {
-      "sku": "LAT-UHT-PINEAPPLE-FLA-OM-125ML-RT-D",
-      "name": "Omega 125ML - Pineapple",
+
+      "name": "omega_pineapple_uht_125ml",
       "description": "Pineapple-flavored Omega UHT milk, tasty and fortified.",
       "packaging": "125ml tetra pack",
       "shelf_life": "180 days, 4 days once opened",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbs: Xg",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image_url": "omega_pineapple_uht_125ml.jpg"
     },
     {
-      "sku": "LAT-UHT-PINEAPPLE-FLA-OM-250ML-RT-D",
-      "name": "Omega 250ML - Pineapple",
+ 
+      "name": "omega_pineapple_uht_250ml",
       "description": "Pineapple-flavored Omega UHT milk, tasty and fortified.",
       "packaging": "250ml tetra pack",
       "shelf_life": "180 days, 4 days once opened",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbs: Xg",
       "age_recommendation": "1+ years",
-      "image_url": "placeholder_for_image_url"
+      "image": "omega_pineapple_uht_125ml.jpg"
     }
   ]
 },
@@ -624,24 +463,22 @@
   "category": "Lato Grow Fortified Milk Powder",
   "products": [
     {
-      "sku": "LAT-MPW-IGR-400gmX12-RT-D",
-      "name": "Lato Grow 400G (0-6yrs)",
+      "name": "Lato Grow 400G (3-5yrs)",
       "description": "Nutritious fortified milk powder specially formulated for children aged 0-6 years to support growth and development.",
       "packaging": "400g pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbs: Xg, Vitamins & Minerals: As per label",
       "age_recommendation": "0-6 years",
-      "image_url": "placeholder_for_image_url"
+      "image": "lato_grow_3to5y_400gm.jpg"
     },
     {
-      "sku": "LAT-MPW-IGR-SR-400gmX12-RT-D",
       "name": "Lato Grow (6-12 Yrs)",
       "description": "Fortified milk powder designed for children aged 6-12 years to support healthy growth, cognitive development, and strong bones.",
       "packaging": "400g pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbs: Xg, Vitamins & Minerals: As per label",
       "age_recommendation": "6-12 years",
-      "image_url": "placeholder_for_image_url"
+      "image": "Lato Grow Fortified Milk Powder (6-12 years)- 400g.jpg"
     }
   ]
 },
@@ -656,18 +493,9 @@
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbs: Xg, Vitamins & Minerals: As per label",
       "age_recommendation": "6 months and above",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-MPW-Fortified-flour-500GMx12-RT-D",
-      "name": "Porridge 500G",
-      "description": "Fortified porridge flour for children and adults to support a nutritious and balanced diet.",
-      "packaging": "500g pack",
-      "shelf_life": "12 months",
-      "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbs: Xg, Vitamins & Minerals: As per label",
-      "age_recommendation": "6 months and above",
-      "image_url": "placeholder_for_image_url"
+      "image": "lato_porridge.jpg"
     }
+
   ]
 },
 {
@@ -684,89 +512,60 @@
       "image_url": "placeholder_for_image_url"
     },
     {
-      "sku": "LAT-AMF-Ghee-1Kgx12-RT-D",
-      "name": "GHEE = 1Kg",
+      
+      "name": "LATO GHEE 1Kg",
       "description": "High-quality ghee for everyday cooking and traditional recipes.",
       "packaging": "1kg pack",
       "shelf_life": "24 months",
       "nutritional_info": "Energy: X kCal, Fat: Xg, Vitamins: A, D, E, K",
       "age_recommendation": "For all ages, use in moderation",
-      "image_url": "placeholder_for_image_url"
+      "image": "ghee_1kg.jpg"
     },
+   
     {
-      "sku": "LAT-AMF-Ghee-JAR-1ltrX12-RT-D",
-      "name": "GHEE - 1L",
-      "description": "Pure dairy ghee in convenient 1L jar for home cooking and baking.",
-      "packaging": "1L jar",
-      "shelf_life": "24 months",
-      "nutritional_info": "Energy: X kCal, Fat: Xg, Vitamins: A, D, E, K",
-      "age_recommendation": "For all ages, use in moderation",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-AMF-Ghee-500gmx24-RT-D",
-      "name": "GHEE - 500Gm",
+     
+      "name": "LATO GHEE - 500Gm",
       "description": "Premium ghee, perfect for cooking and baking, in 500g packs.",
       "packaging": "500g pack",
       "shelf_life": "24 months",
       "nutritional_info": "Energy: X kCal, Fat: Xg, Vitamins: A, D, E, K",
       "age_recommendation": "For all ages, use in moderation",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-AMF-Ghee-JAR-500mlX24-RT-D",
-      "name": "GHEE - 500 gm",
-      "description": "High-quality ghee in 500ml jar, ideal for home use.",
-      "packaging": "500ml jar",
-      "shelf_life": "24 months",
-      "nutritional_info": "Energy: X kCal, Fat: Xg, Vitamins: A, D, E, K",
-      "age_recommendation": "For all ages, use in moderation",
-      "image_url": "placeholder_for_image_url"
+      "image": "ghee_500g.jpg"
     }
+
   ]
 },
     {
   "category": "Juices",
   "products": [
     {
-      "sku": "LAT-JUI-GLUCO POWER -125ML-RT-D",
       "name": "Gluco Power B 125ML",
       "description": "Energy-boosting juice drink, enriched with essential vitamins and minerals.",
       "packaging": "125ml pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Sugars: Xg, Vitamins: B-complex",
       "age_recommendation": "Suitable for children above 3 years and adults",
-      "image_url": "placeholder_for_image_url"
+      "image": "glucopower_b_125ml.png"
     },
     {
-      "sku": "LAT-JUI-GLUCO POWER-250ml-RT-D",
-      "name": "Gluco Power B 250Ml",
-      "description": "Energy-boosting juice drink in larger 250ml pack, enriched with essential vitamins and minerals.",
-      "packaging": "250ml pack",
-      "shelf_life": "12 months",
-      "nutritional_info": "Energy: X kCal, Sugars: Xg, Vitamins: B-complex",
-      "age_recommendation": "Suitable for children above 3 years and adults",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-JUI-VITAZ-125ML-RT-D",
+
       "name": "Vita Z 125ML",
       "description": "Refreshing juice drink enriched with vitamin C for daily immunity support.",
       "packaging": "125ml pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Vitamin C: Xmg",
       "age_recommendation": "Suitable for children above 3 years and adults",
-      "image_url": "placeholder_for_image_url"
+      "image": "vitaz_125ml.jpg"
     },
     {
-      "sku": "LAT-JUI-VITAZ-250ML-RT-D",
+ 
       "name": "VitaZ 250ML",
       "description": "Larger 250ml pack of Vita Z, a vitamin C-rich juice for immunity and refreshment.",
       "packaging": "250ml pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Vitamin C: Xmg",
       "age_recommendation": "Suitable for children above 3 years and adults",
-      "image_url": "placeholder_for_image_url"
+      "image": "vitaz-250ml.jpg"
     }
   ]
 },
@@ -774,44 +573,40 @@
   "category": "Nadolac",
   "products": [
     {
-      "sku": "LAT-MPW-Nadolac-Wheat-400X12-RT-D",
       "name": "Nadolac 400g",
       "description": "Nadolac infant formula made with wheat, specially designed to support growth and development.",
       "packaging": "400g pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Vitamins: A, D, Iron: Xmg",
       "age_recommendation": "Suitable for infants from 6 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "nadolac-wheat-400g-tin.jpg"
     },
     {
-      "sku": "LAT-MPW-Nadolac-Wheet&Banana-400X12-RT-D",
       "name": "Nadolac 400g (Wheat and Banana)",
       "description": "Infant formula enriched with wheat and natural banana flavor, promoting healthy growth.",
       "packaging": "400g pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Vitamins: A, D, Iron: Xmg",
       "age_recommendation": "Suitable for infants from 6 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "nadolac_400g_tin.jpg"
     },
     {
-      "sku": "LAT-MPW-NADOLAC-WHEAT-50GM X60-RT-D",
       "name": "Nadolac 50G",
       "description": "Small 50g pack of Nadolac wheat-based infant formula for easy serving and storage.",
       "packaging": "50g sachet",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Vitamins: A, D, Iron: Xmg",
       "age_recommendation": "Suitable for infants from 6 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "nadolac_wheat_50g_tin.jpg"
     },
     {
-      "sku": "LAT-MPW-NADOLAC-WHEAT-BAN-50GM X 60-RT-D",
       "name": "Nadolac 50G - Wheat Banana",
       "description": "Convenient 50g sachet of Nadolac with wheat and banana flavor, ideal for infants.",
       "packaging": "50g sachet",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Vitamins: A, D, Iron: Xmg",
       "age_recommendation": "Suitable for infants from 6 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "nadolac_50g_tin.jpg"
     }
   ]
 },
@@ -819,149 +614,112 @@
   "category": "Nonna",
   "products": [
     {
-      "sku": "LAT-MPW-NONNA-GOLD1-400GMx12-RT-C",
+
       "name": "Nonna 1 (0-6 months)",
       "description": "Infant formula for newborns up to 6 months, providing essential nutrients for early growth and development.",
       "packaging": "400g pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Vitamins: A, D, Iron: Xmg",
       "age_recommendation": "0-6 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "nonna_gold_stage1.jpg"
     },
     {
-      "sku": "LAT-MPW-NONNA-GOLD2-400GMx12-RT-C",
       "name": "Nonna 2 (6-12 months)",
       "description": "Formulated for infants 6-12 months, supporting healthy growth and immune system development.",
       "packaging": "400g pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Vitamins: A, D, Iron: Xmg",
       "age_recommendation": "6-12 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "nonna_gold_stage2.jpg"
     },
     {
-      "sku": "LAT-MPW-NONNA-GOLD3-400GMx12-RT-C",
       "name": "Nonna 3 (1-2 years)",
       "description": "Specialized formula for toddlers aged 1-2 years, supporting growth, brain development, and immunity.",
       "packaging": "400g pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Vitamins: A, D, Iron: Xmg",
       "age_recommendation": "1-2 years",
-      "image_url": "placeholder_for_image_url"
+      "image": "nonna_gold_stage3.jpg"
     }
   ]
 },
     {
   "category": "Instant Whole Milk Powder",
   "products": [
+
+    
     {
-      "sku": "LAT-MPW-IMP-12gmX420-RT-D",
-      "name": "IMP 12G",
-      "description": "Instant milk powder for quick reconstitution, suitable for direct consumption or cooking.",
-      "packaging": "12g sachet",
-      "shelf_life": "12 months",
-      "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbohydrates: Xg",
-      "age_recommendation": "Not for infants below 12 months",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-MPW-IMP-15GMX420-RT-D",
       "name": "IMP 15G",
       "description": "Instant milk powder sachet for convenient use at home or on-the-go.",
       "packaging": "15g sachet",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbohydrates: Xg",
       "age_recommendation": "Not for infants below 12 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "instant_wholemilk_powder_plain_15gm.jpg"
     },
     {
-      "sku": "LAT-MPW-IMP-2.5Kgx6-RT-D",
       "name": "IMP 2.5KG",
       "description": "Bulk pack of instant milk powder for households or commercial use.",
       "packaging": "2.5Kg pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbohydrates: Xg",
       "age_recommendation": "Not for infants below 12 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "instant_wholemilk_powder_2.5kg.jpg"
     },
     {
-      "sku": "LAT-MPW-IMP-250GMX24-RT-D",
-      "name": "IMP 250G",
-      "description": "Medium-sized instant milk powder for everyday use in tea, coffee, and cooking.",
-      "packaging": "250g pack",
-      "shelf_life": "12 months",
-      "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbohydrates: Xg",
-      "age_recommendation": "Not for infants below 12 months",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-MPW-IMP-400gmX12-RT-D",
       "name": "IMP 400G",
       "description": "Convenient instant milk powder for households with regular consumption needs.",
       "packaging": "400g pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbohydrates: Xg",
       "age_recommendation": "Not for infants below 12 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "instant_wholemilk_powder_400g.jpg"
     },
+
     {
-      "sku": "LAT-MPW-IMP-700gmX12-RT-D",
-      "name": "IMP 700G",
-      "description": "Larger pack instant milk powder, ideal for families or frequent use.",
-      "packaging": "700g pack",
-      "shelf_life": "12 months",
-      "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbohydrates: Xg",
-      "age_recommendation": "Not for infants below 12 months",
-      "image_url": "placeholder_for_image_url"
-    },
-    {
-      "sku": "LAT-MPW-IMP-900gmX12-RT-D",
       "name": "IMP 900G",
       "description": "Extra-large instant milk powder pack for heavy household consumption or small commercial use.",
       "packaging": "900g pack",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbohydrates: Xg",
       "age_recommendation": "Not for infants below 12 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "instant_wholemilk_powder_900g.jpg"
     },
     {
-      "sku": "LAT-MPW-CHOCOLATE-15GMx420-RT-D",
       "name": "IMP 15G - Chocolate",
       "description": "Chocolate-flavored instant milk powder, perfect for kids and chocolate lovers.",
       "packaging": "15g sachet",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbohydrates: Xg",
       "age_recommendation": "Not for infants below 12 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "instant_wholemilk_powder_chocolate_15gm.jpg"
     },
     {
-      "sku": "LAT-MPW-COFFEE-15GMx420-RT-D",
       "name": "IMP 15G Coffee",
       "description": "Coffee-flavored instant milk powder, ideal for a quick coffee mix.",
       "packaging": "15g sachet",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbohydrates: Xg",
       "age_recommendation": "Not recommended for children under 12 years",
-      "image_url": "placeholder_for_image_url"
+      "image": "instant_wholemilk_powder_coffee_15gm.jpg"
     },
     {
-      "sku": "LAT-MPW-GINGER-15GMx420-RT-D",
       "name": "IMP 15G - Ginger",
       "description": "Ginger-flavored instant milk powder with a hint of spice for a warm beverage.",
       "packaging": "15g sachet",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbohydrates: Xg",
       "age_recommendation": "Not for infants below 12 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "instant_wholemilk_powder_ginger_15gm.jpg"
     },
     {
-      "sku": "LAT-MPW-STRAWBERRY-15GMx420-RT-D",
       "name": "IMP 15G - Strawberry",
       "description": "Strawberry-flavored instant milk powder, perfect for a fruity and sweet drink.",
       "packaging": "15g sachet",
       "shelf_life": "12 months",
       "nutritional_info": "Energy: X kCal, Protein: Xg, Fat: Xg, Carbohydrates: Xg",
       "age_recommendation": "Not for infants below 12 months",
-      "image_url": "placeholder_for_image_url"
+      "image": "instant_wholemilk_powder_strawberry_15gm.jpg"
     }
   ]
 },
